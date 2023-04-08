@@ -8,8 +8,38 @@ body{
 }
 main{
     background-color: white;
-    width: 500px;
+    width: 80%;
     padding: 10px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.534);
+}
+h1{
+    font-size: larger;
+}
+h2{
+    font-size: larger;
+}
+p{
+    font-size: large;
+    display: flexbox;
+    margin: 20px;
+    padding:5px;
+    text-align: justify;
+
+
+}
+.Main-Header{
+    padding: 10px;
+}
+.Main-Header h1 {
+    font-size: x-large;
+}
+#JS_Image{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    display: flexbox;
+    cursor: all-scroll;
+    float: right;
+    padding: 15px;
 }
